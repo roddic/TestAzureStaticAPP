@@ -1,0 +1,1 @@
+# TestAzureStaticAPP
